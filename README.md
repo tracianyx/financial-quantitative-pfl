@@ -1,11 +1,11 @@
-# Financial Research and Quantitative Accounting Portfolio
+# Financial Research & Quantitative Accounting Portfolio
 
-Welcome to my portfolio! This repository showcases my academic research, data-driven financial analyses, and audited reports focusing on corporate reporting, ESG disclosures, and financial transparency.
+Welcome to my portfolio! This repository showcases my journey of applying accounting and auditing knowledge to research, analyze, and evaluate the financial statements of major corporations.
 
 ## Repository Contents:
- **Audited Financial Statements:** Selected audited consolidated financial reports used as benchmark data for quantitative analysis.
- **Financial & ESG Analysis:** Research materials, summaries, and analytical frameworks examining earnings management, corporate sustainability, and transparency.
+* **Audited Financial Statements:** Selected audited consolidated financial reports from leading corporations used as benchmark data for analysis.
+* **Financial Statement Analysis:** Analytical documents and practical evaluations focusing on corporate financial health, transparency, and reporting standards.
 
 ## Professional Profile:
- **Background:** Third-year Accounting and Auditing undergraduate at Foreign Trade University (GPA: 3.42/4.00).
- **Core Competencies:** Financial statement analysis, auditing standards, tax law, and quantitative research (ACCA in progress).
+* **Background:** Third-year Accounting and Auditing undergraduate at Foreign Trade University (GPA: 3.42/4.00).
+* **Core Competencies:** Financial statement analysis, auditing standards, tax law, and quantitative research (ACCA in progress).
